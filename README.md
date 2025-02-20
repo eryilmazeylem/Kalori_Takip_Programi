@@ -27,7 +27,7 @@ Bu projeyi kendi bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
 
 1. Bu depo'yu klonlayın:
     ```bash
-    git clone https://github.com/mihrapgozcu/KaloriTakipProgrami
+    git clone https://github.com/eryilmazeylem/Kalori_Takip_Programi
     ```
 2. Proje klasörüne gidin:
     ```bash
